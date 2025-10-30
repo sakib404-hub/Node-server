@@ -1,0 +1,117 @@
+[
+  {
+    "id": "u001",
+    "name": "Shakib Hossen",
+    "email": "shakib.hossen@example.com",
+    "password": "hashed_password_123",
+    "role": "admin",
+    "age": 26,
+    "gender": "male",
+    "address": {
+      "street": "House 12, Road 8",
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "postalCode": "1216"
+    },
+    "phone": "+8801712345678",
+    "isActive": true,
+    "joinedDate": "2023-07-15",
+    "preferences": {
+      "language": "English",
+      "theme": "dark",
+      "notifications": true
+    }
+  },
+  {
+    "id": "u002",
+    "name": "Aisha Rahman",
+    "email": "aisha.rahman@example.com",
+    "password": "hashed_password_456",
+    "role": "user",
+    "age": 23,
+    "gender": "female",
+    "address": {
+      "street": "Block C, Bashundhara",
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "postalCode": "1229"
+    },
+    "phone": "+8801898765432",
+    "isActive": true,
+    "joinedDate": "2024-01-02",
+    "preferences": {
+      "language": "Bangla",
+      "theme": "light",
+      "notifications": false
+    }
+  },
+  {
+    "id": "u003",
+    "name": "Tanvir Ahmed",
+    "email": "tanvir.ahmed@example.com",
+    "password": "hashed_password_789",
+    "role": "moderator",
+    "age": 30,
+    "gender": "male",
+    "address": {
+      "street": "Kazipara, Mirpur",
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "postalCode": "1216"
+    },
+    "phone": "+8801789012345",
+    "isActive": false,
+    "joinedDate": "2022-11-10",
+    "preferences": {
+      "language": "English",
+      "theme": "dark",
+      "notifications": true
+    }
+  },
+  {
+    "id": "u004",
+    "name": "Nusrat Jahan",
+    "email": "nusrat.jahan@example.com",
+    "password": "hashed_password_234",
+    "role": "user",
+    "age": 21,
+    "gender": "female",
+    "address": {
+      "street": "Chawkbazar",
+      "city": "Chittagong",
+      "country": "Bangladesh",
+      "postalCode": "4000"
+    },
+    "phone": "+8801923456789",
+    "isActive": true,
+    "joinedDate": "2025-03-25",
+    "preferences": {
+      "language": "Bangla",
+      "theme": "light",
+      "notifications": true
+    }
+  },
+  {
+    "id": "u005",
+    "name": "Rafiul Karim",
+    "email": "rafiul.karim@example.com",
+    "password": "hashed_password_567",
+    "role": "user",
+    "age": 28,
+    "gender": "male",
+    "address": {
+      "street": "North Badda",
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "postalCode": "1212"
+    },
+    "phone": "+8801765432198",
+    "isActive": true,
+    "joinedDate": "2024-09-12",
+    "preferences": {
+      "language": "English",
+      "theme": "dark",
+      "notifications": false
+    }
+  }
+]
